@@ -1,3 +1,23 @@
+# AI Prompt Architect 🚀
+
+Aplikasi web modern untuk membangun instruksi teknis (prompt) berkualitas tinggi bagi pengembang web dan aplikasi mobile. 
+
+## ✨ Fitur
+- **Dual Mode**: Mendukung pembuatan prompt untuk Website dan Mobile App.
+- **Modern UI**: Desain responsif dengan Tailwind CSS dan Dark Mode Terminal.
+- **Copy to Clipboard**: Salin prompt dengan satu klik.
+
+## 🛠️ Tech Stack
+- **React.js** (Vite)
+- **Tailwind CSS v4**
+- **Lucide Icons**
+
+## 🚀 Cara Menjalankan
+1. Clone repositori ini.
+2. Jalankan `npm install`.
+3. Jalankan `npm run dev`.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
